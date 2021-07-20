@@ -1,8 +1,10 @@
 # iNTUition v7.0: STUHUB
 #### A PLACE TO CONNECT UNIVERSITY STUDENTS
 
-To view the website, go to STUHUB folder > index.html
+To run the website:
 
-This is how the website looks like:
+The main folder contains all the required file to run the application. The directory to the homepage is 'STUHUB/index.html'
+
+This is how the homepage looks like:
 
 ![websitepic](website.png)
